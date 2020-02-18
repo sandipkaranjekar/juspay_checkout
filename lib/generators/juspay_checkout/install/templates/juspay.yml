@@ -1,0 +1,12 @@
+default: &default
+  api_key: ENV['JUSPAY_API_KEY']
+  response_key: ENV['JUSPAY_RESPONSE_KEY']
+
+development:
+  <<: *default
+
+staging:
+  <<: *default
+
+production:
+  <<: *default
