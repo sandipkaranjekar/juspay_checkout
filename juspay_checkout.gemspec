@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Juspay payment gateway library}
   spec.description   = %q{Library for Express Checkout APIs Juspay.}
-  spec.homepage      = "https://github.com/sandipkaranjekar/juspay"
+  spec.homepage      = "https://github.com/sandipkaranjekar/juspay_checkout"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
